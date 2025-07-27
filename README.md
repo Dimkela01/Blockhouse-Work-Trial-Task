@@ -16,14 +16,3 @@ Visualizations of slippage functions and allocation behavior
 
 🧠 Goal
 Minimize total slippage when buying a target number of shares within a fixed number of time intervals (e.g. 390 trading minutes).
-
-📁 Structure
-slippage_estimation.py: Functions for computing and approximating slippage
-
-allocation_algorithms.py: Smart and naive allocation implementations
-
-visualizations/: Plots of slippage curves and allocation results
-
-report.docx: Detailed explanation and analysis
-
-🚀 Run
